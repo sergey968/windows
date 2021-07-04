@@ -1,0 +1,39 @@
+
+/*
+.header {
+    background: url(../img/shar_dsk2.png) no-repeat;
+    height: 158px;
+}*/
+
+.jumbotron {
+    background: url(../img/shar_dsk2.png) no-repeat;
+    height: 9.875rem;
+}
+nav {
+    height: 3.625rem;
+    background-color: #FFE600;
+}
+.main{
+    background-image: url(../img/man_planshet1.png),url(../img/group_firms.png),url(../img/shar_dsk1.png),url(../img/part2.png); 
+    background-repeat: no-repeat;
+    
+    background-position: top 3.875rem right 14.0625rem, top 3.875rem right 39.875rem, left bottom, right bottom;
+    height: 34rem;
+}
+
+.section__1{
+    height: 15.5rem;
+    background-color:#9B9A99;
+}
+.price__description{
+    height: 42rem;
+    background-color:#ffffff;    
+}
+.section__2{
+    height: 15.5rem;
+    background-color:#C7C7C7;;
+}
+footer {
+    height: 7.5rem;
+    background-color:#015A76;
+}
